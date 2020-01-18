@@ -1,0 +1,19 @@
+ion-menu{
+    ion-content{
+        --ion-background-color: rgb(190, 190, 190);
+        --ion-color:rgb(12, 59, 189);
+        
+    }
+    ion-list{
+        ion-label{
+            color:rgb(12, 59, 189);
+        }
+    }
+    ion-header{
+        ion-toolbar{
+            background-color:#ffce00;
+            color:rgb(12, 59, 189);;
+        }
+       
+    }
+}
